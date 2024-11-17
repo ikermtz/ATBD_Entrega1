@@ -1,0 +1,4 @@
+172.31.41.90  hadoop-master
+172.31.39.162     hadoop-worker-1
+172.31.39.20     hadoop-worker-2
+172.31.46.109     hadoop-worker-3
